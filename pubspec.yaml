@@ -1,0 +1,22 @@
+name: inline_hints_dart_package
+description: "A package to provide inline hints for Dart code"
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  analyzer: any
+  analyzer_plugin: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+
+flutter:
